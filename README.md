@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Projeto feito durante o curso Discover da Rocketseat <br><br>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -34,8 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
+<br><br>
+Durante o projeto pude estudar as diversas formas de posicionar e estilizar elementos utilizando o CSS, além de entender ferramentas importante para um desenvolvedor como o figma e git
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://brunobechara12.github.io/Devlinks/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
@@ -43,10 +45,10 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat 🌊 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
